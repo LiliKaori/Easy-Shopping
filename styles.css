@@ -14,7 +14,7 @@ main{
 .left{
     width: 60%;
     display: inline-block;
-    margin-top: 25%;
+    margin-top: 15%;
     padding-left: 136px;
 }
 
@@ -87,7 +87,7 @@ a:hover{
 
 img{
     position: relative;
-    top: 25%;
+    top: 15%;
     right: 130px;
 }
 
